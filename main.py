@@ -6,4 +6,4 @@ elif(Q==2):
 elif(Q==3):
   print("My aniamal can weigh up to 110,000 - 330,000 pounds")
 else:
-  print("My animal can eat up to 8,000 pounds of krill")
+  print("My animal can eat up to 8,000 pounds of krill") 
